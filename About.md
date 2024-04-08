@@ -1,3 +1,3 @@
 # Cookie Comapny
 
-![cookie](cookie.jpg)
+![cookie](cookie.png)
