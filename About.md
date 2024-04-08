@@ -3,7 +3,7 @@ You are her in our exciting cookiecompany. Lookout for our mouth watering delica
 
 > Cookie company was found in 1990 when the founder John's homemade receipe was a total it'
 
-### **Ingredients **
+### **Ingredients**
 - All purpose Flour
 - Sugar
 - Venilla Essence
